@@ -9,7 +9,7 @@ Resolvo problemas reais de negócio construindo software, começando pelos da mi
 **Buba** · em produção  
 Sistema de gestão para médias empresas com grande diversidade de regras de negócio, não atendidas por sistemas prontos. Construído do zero para substituir o sistema legado do Grupo CBM, com a migração conduzida em paralelo à operação.
 
-**ODP (Ozymandias Development Pipeline)** · em uso diário  
+**[ODP (Ozymandias Development Pipeline)](https://github.com/AndreLSPortella/odp)** · em uso diário  
 Pipeline que orquestra agentes de IA no desenvolvimento de software: um agente implementa, outro revisa às cegas, um terceiro dá o veredito, e a tarefa aprovada é integrada automaticamente.
 
 **Camada Tática** · protótipo funcional  
