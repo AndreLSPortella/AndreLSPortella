@@ -12,7 +12,7 @@ Sistema de gestão para médias empresas com grande diversidade de regras de neg
 **[ODP (Ozymandias Development Pipeline)](https://github.com/AndreLSPortella/odp)** · em uso diário  
 Pipeline que orquestra agentes de IA no desenvolvimento de software: um agente implementa, outro revisa às cegas, um terceiro dá o veredito, e a tarefa aprovada é integrada automaticamente.
 
-**Camada Tática** · protótipo funcional  
+**[Camada Tática](https://github.com/AndreLSPortella/camada-tatica)** · protótipo funcional  
 Organiza agentes de IA para analisar um problema, criticar a análise e consolidar uma recomendação, com aprovação humana antes de qualquer mudança de escopo.
 
 **[Clubista](https://github.com/AndreLSPortella/clubista_vitrine)** · protótipo  
