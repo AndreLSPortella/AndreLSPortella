@@ -18,7 +18,7 @@ Organiza agentes de IA para analisar um problema, criticar a análise e consolid
 **[Clubista](https://github.com/AndreLSPortella/clubista_vitrine)** · protótipo  
 Jogo de gerenciamento de futebol sobre um motor de partidas determinístico, em que cada decisão tática tem efeito explicável.
 
-**Delve Ever After** · protótipo  
+**[Delve Ever After](https://github.com/AndreLSPortella/delve_vitrine)** · protótipo  
 RPG tático cooperativo de masmorras para celular, sobre um motor de regras determinístico.
 
 ## Como eu trabalho
