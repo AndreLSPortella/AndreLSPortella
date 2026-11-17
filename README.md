@@ -15,7 +15,7 @@ Pipeline que orquestra agentes de IA no desenvolvimento de software: um agente i
 **Camada Tática** · protótipo funcional  
 Organiza agentes de IA para analisar um problema, criticar a análise e consolidar uma recomendação, com aprovação humana antes de qualquer mudança de escopo.
 
-**Clubista** · protótipo  
+**[Clubista](https://github.com/AndreLSPortella/clubista_vitrine)** · protótipo  
 Jogo de gerenciamento de futebol sobre um motor de partidas determinístico, em que cada decisão tática tem efeito explicável.
 
 **Delve Ever After** · protótipo  
