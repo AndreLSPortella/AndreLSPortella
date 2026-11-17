@@ -6,7 +6,7 @@ Resolvo problemas reais de negócio construindo software, começando pelos da mi
 
 ## Projetos
 
-**Buba** · em produção  
+**[Buba](https://github.com/AndreLSPortella/buba)** · em produção  
 Sistema de gestão para médias empresas com grande diversidade de regras de negócio, não atendidas por sistemas prontos. Construído do zero para substituir o sistema legado do Grupo CBM, com a migração conduzida em paralelo à operação.
 
 **[ODP (Ozymandias Development Pipeline)](https://github.com/AndreLSPortella/odp)** · em uso diário  
